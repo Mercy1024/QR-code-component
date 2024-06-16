@@ -10,7 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
 
-
 ## Overview
 
 ### Screenshot
@@ -20,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://qr-code-component-phi-neon.vercel.app/)
+- Solution URL: [Solution here](https://www.frontendmentor.io/solutions/qr-code-component-b1Ke1zA-FV)
+- Live Site URL: [Live Site](https://qr-code-component-phi-neon.vercel.app/)
 
 ## My process
 
@@ -32,4 +31,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
